@@ -1,0 +1,2 @@
+# MultiCastApplication
+An eclipse plugin
